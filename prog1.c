@@ -3,5 +3,5 @@ void main()
 {
 printf("welcome");
 printf("hy");
-printf("afternoon  monday");
+printf(" the afternoon  monday");
 }
